@@ -29,4 +29,5 @@ public class Electricbill {
         obj2.display();
     }
     
+    
 }
